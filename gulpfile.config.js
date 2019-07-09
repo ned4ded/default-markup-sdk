@@ -1,4 +1,4 @@
-import path from 'path';
+import path from 'path'
 
 export default {
   server: {
@@ -27,4 +27,4 @@ export default {
     svgDefs: path.join(__dirname, 'src/assets/defs.svg'),
     datasets: 'datasets',
   },
-};
+}
